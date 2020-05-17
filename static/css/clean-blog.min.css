@@ -1,9 +1,4 @@
-/*!
- * Start Bootstrap - Clean Blog v4.0.0-beta.2 (https://startbootstrap.com/template-overviews/clean-blog)
- * Copyright 2013-2017 Start Bootstrap
- * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-clean-blog/blob/master/LICENSE)*/
- 
-   body {
+body {
   font-size: 20px;
   color: #212529;
   font-family: Lora, 'Times New Roman', serif
@@ -432,3 +427,4 @@ footer .copyright {
 .btn-lg {
   font-size: 16px;
   padding: 25px 35px
+}
